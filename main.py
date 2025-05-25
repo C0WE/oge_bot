@@ -7,7 +7,7 @@
 # from aiogram.utils.keyboard import InlineKeyboardBuilder
 # from aiogram.client.default import DefaultBotProperties
 #
-# TOKEN = '7999210390:AAHu1TU-NRWrcFXHq305GmchA8Bc4BK8t2E'
+# TOKEN = 'TOKEN'
 #
 #
 # class Form(StatesGroup):
